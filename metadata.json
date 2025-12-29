@@ -1,0 +1,5 @@
+{
+  "name": "Bank Statement Analyzer",
+  "description": "An AI-powered application to automatically perform OCR on bank statements (images or PDFs), extract transaction data, and present it in a clean, downloadable CSV format.",
+  "requestFramePermissions": []
+}
